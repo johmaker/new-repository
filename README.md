@@ -1,2 +1,2 @@
-# new-repository
+# hello world
 its learning repositoty
